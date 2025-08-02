@@ -19,7 +19,7 @@ Genome = input("Enter the genome : ")
 Hamming_dist = int(input("Enter the pattern of the DNA box : "))
 
 print(dnabox(DNAbox,Genome,Hamming_dist))
-#new edit that is added to learn more about creating branch and editing in the branch
+
 
 
 
